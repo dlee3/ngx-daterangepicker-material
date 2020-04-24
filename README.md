@@ -1,5 +1,14 @@
 # ngx-daterangepicker-material
 
+---
+
+## Alert!
+
+This is a fork of https://github.com/fetrarij/ngx-daterangepicker-material that fixes this issue https://github.com/fetrarij/ngx-daterangepicker-material/issues/237.
+If this pull request (https://github.com/fetrarij/ngx-daterangepicker-material/pull/270) has been merged, then please use the original repo.
+
+---
+
 > Angular 2+ Date range picker.
 
 [![Build Status](https://travis-ci.org/fetrarij/ngx-daterangepicker-material.svg?branch=master)](https://travis-ci.org/fetrarij/ngx-daterangepicker-material)
@@ -16,10 +25,10 @@ Demo: https://fetrarij.github.io/ngx-daterangepicker-material/
 
 ## Versions
 
-| Angular| ngx-daterangepicker-material|
-| ------|:------:| 
-| >=9.0.0 | v2.3.x and v3.x |
-| <9.0.0  | v2.2.x and below|
+| Angular | ngx-daterangepicker-material |
+| ------- | :--------------------------: |
+| >=9.0.0 |       v2.3.x and v3.x        |
+| <9.0.0  |       v2.2.x and below       |
 
 ---
 
